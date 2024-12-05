@@ -2,9 +2,9 @@
 @import '@nuxt/ui';
 
 @theme {
-	--font-sans: 'Inter', sans-serif;
+  --font-sans: 'Inter', sans-serif;
 
-	--breakpoint-3xl: 1920px;
+  --breakpoint-3xl: 1920px;
 }
 
 @source "../content";
